@@ -1,0 +1,4 @@
+Principal Component Analysis (SPCA 2.0) for Spatial Data with Matlab,
+The package calculates PCA using Correlation coefficient of Pearson, Eigenvalues and EigenVectors 
+in addition there is clustering of observations by three methods: KNN, K-means and Hierarchical Clustering.
+Displays Graphs of Biplot, Correlation circle, and Observations Clustering
